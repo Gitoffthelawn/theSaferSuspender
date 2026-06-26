@@ -1,6 +1,8 @@
 The Safer Suspender
 ======================
 
+> ⚠️ DEPRECATED: Most browsers have built-in memory-saving features.
+
 ## Vision
 
 <q>The Safer Suspender</q> is a **safer** and free and open-source extension for modern browser, such as **Firefox**, **Edge** and **Chrome**.
